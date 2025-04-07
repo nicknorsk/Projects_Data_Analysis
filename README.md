@@ -1,4 +1,4 @@
-# Walmart Sales Analysis Final Project
+# Walmart Sales Analysis Project
 
 This project explores Walmart sales data to identify trends, uncover seasonal patterns, and understand the impacts of various factors such as holidays, fuel prices, and local economic conditions on weekly sales.
 
